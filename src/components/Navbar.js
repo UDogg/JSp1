@@ -1,7 +1,7 @@
 import "./Navbar.css";
 import React from 'react'
 import {Link} from "react-router-dom";
-import { render } from "@testing-library/react";
+// import { render } from "@testing-library/react";
 import {FaBars , FaTimes} from "react-icons/fa";
 import { useState } from "react";
 
@@ -20,8 +20,8 @@ const Navbar  = () => {
         }
     };
     window.addEventListener("scroll",changeColor);
-    render()
-    {
+    // render()
+    
         return (
             <div className={color?("header header-bg"):("header")}>
                 <Link to ="/">
@@ -47,7 +47,7 @@ const Navbar  = () => {
                 </div>
             </div>
           )
-    }
+    
   
 }
 

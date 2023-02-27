@@ -1,13 +1,13 @@
 import "./AboutContent.css";
 import React from 'react';
-import { render } from "@testing-library/react";
+// import { render } from "@testing-library/react";
 import {Link} from "react-router-dom";
 import React1 from "../assets/PSU.png";
 import React2 from "../assets/full-stack.png";
 
 const AboutContent = () => {
-    render()
-    {
+    // render()
+    
         return (
             <div className="about">
                 <div className="left">
@@ -31,7 +31,7 @@ const AboutContent = () => {
             </div>
           )
         }
-    }
+    
  
 
 export default AboutContent

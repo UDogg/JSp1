@@ -1,10 +1,10 @@
 import "./Form.css";
 import React from 'react'
-import { render } from "@testing-library/react";
+// import { render } from "@testing-library/react";
 
 const Form = () => {
-    render()
-    {
+    // render()
+    
         return (
             <div className="Form">
                 <h1>This is a mock contact page like Big-Tech companies.</h1>
@@ -23,7 +23,7 @@ const Form = () => {
             </div>
           )
 
-    }
+    
 
 }
 

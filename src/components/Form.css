@@ -10,7 +10,7 @@
     margin: auto;
     max-width: 600px;
 }
-.form .input, .form .textarea{
+.form .input,.form .textarea{
     margin-bottom: 1rem;
     padding: 10px 18px;
     font-size: 1.2rem;
@@ -18,3 +18,11 @@
     border-color: rgba(255,255,255,0.1);
     color:#f4f4f4;
 }
+
+form::after{
+
+    content: "\a";
+    white-space: pre;
+
+}
+
