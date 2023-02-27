@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c183f587.css",
+    "main.js": "/static/js/main.f0bb55cf.js",
+    "static/media/front-end.png": "/static/media/front-end.c7ea64b8e1c7e1a2f420.png",
+    "static/media/java221.png": "/static/media/java221.72364582bc24a3b597d1.png",
+    "static/media/PSU.png": "/static/media/PSU.404b3fda4e792974a2d7.png",
+    "static/media/linux.png": "/static/media/linux.4e73c368ffcde772f54d.png",
+    "static/media/full-stack.png": "/static/media/full-stack.57068e84d271dd1b0dd9.png",
+    "static/media/logo-og.png": "/static/media/logo-og.ef20e673b9282f8f30fd.png",
+    "index.html": "/index.html",
+    "main.c183f587.css.map": "/static/css/main.c183f587.css.map",
+    "main.f0bb55cf.js.map": "/static/js/main.f0bb55cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c183f587.css",
+    "static/js/main.f0bb55cf.js"
+  ]
+}
