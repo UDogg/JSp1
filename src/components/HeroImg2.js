@@ -1,21 +1,15 @@
 import "./HeroImg2.css";
-import React, { Component } from 'react'
-import {render} from "@testing-library/react";
+import React from "react";
 
-class HeroImg2 extends Component{
-    render()
-    {
-        return (
-            <div className="hero-img">
-                <div className="heading">
-                    <h1>{this.props.heading}</h1>
-                    <p>{this.props.text}</p>
-                </div>
-            </div>
-          )
-  
-    }
+export const HeroImg2 = ({heading, text}) => {
+  return (
+    <div className="hero-img">
+      <div className="heading">
+        <h1>{heading}</h1>
+        <p>{text}</p>
+      </div>
+    </div>
+  );
+};
 
-}
-
-export default HeroImg2
+export default HeroImg2;

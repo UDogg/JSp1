@@ -6,11 +6,10 @@ import Contact from "./routes/Contact.js";
 import Projects from "./routes/Projects.js";
 import { Route, Routes } from "react-router-dom";
 
-
-
 function App() {
     return (
       <>
+      {/* <Home/> */}
       <Routes>
       <Route path="/" element={<Home />}  />
       <Route path="/About" element={<About />}  />
