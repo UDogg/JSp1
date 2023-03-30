@@ -11,7 +11,7 @@ const Projects = () => {
     return (
       <div>
         <Navbar />
-        <HeroImg2 heading="PROJECTS." text="Some of my recent work." />
+        <HeroImg2 heading="PROJECTS." text="Some of my recent work is listed below." />
         <Work/>
         <Footer />
       </div>
