@@ -16,7 +16,7 @@ const HeroImg = () => {
                         Hi, My name is UC Choudhary.
                     </p>
                     <h1>
-                        Computer Science Student at Penn State.
+                        I am a Computer Science Student at Penn State.
                     </h1>
                     <div>
                         <Link to ="/Projects" className="btn">Projects</Link>
