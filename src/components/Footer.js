@@ -49,7 +49,7 @@ const Footer = () => {
         <div className="right">
           <h4>About Me</h4>
           <p>
-            Hi My Name is Utkarsh(UC) Choudhary and this is my second React App
+            Hi, My Name is Utkarsh(UC) Choudhary and this is my second React App
             but my first portfolio website.
           </p>
         </div>
