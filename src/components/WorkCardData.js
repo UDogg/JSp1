@@ -19,7 +19,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro3,
-        title:"Creating a basix JavaScript program",
+        title:"Creating a basic JavaScript program",
         text:"Write a program in JavaScript  to perform basic functions like adding 2 numbers and converting rgb to hsv etc."
         ,view: "https://github.com/UDogg/myfirstJScode#readme"
         ,source: "https://github.com/UDogg/myfirstJScode"    
