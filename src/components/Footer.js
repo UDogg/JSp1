@@ -49,8 +49,7 @@ const Footer = () => {
         <div className="right">
           <h4>About Me</h4>
           <p>
-            Hi, My Name is Utkarsh(UC) Choudhary and this is my second React App
-            but my first portfolio website.
+            Hi, My Name is Utkarsh(UC) Choudhary and this is my resumé https://ipfs.io/ipfs/QmbwGMYrckUzTwcP8bTxRMrLqxqaUATPs7xUqsAWacFEUM?filename=CV_Utkarsh%20Choudhary.pdf
           </p>
         </div>
       </div>
