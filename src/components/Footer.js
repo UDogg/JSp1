@@ -50,7 +50,9 @@ const Footer = () => {
           <h4>About Me</h4>
           <p>
             Hi, My Name is Utkarsh(UC) Choudhary.
-            <a href="https://ipfs.io/ipfs/QmbwGMYrckUzTwcP8bTxRMrLqxqaUATPs7xUqsAWacFEUM?filename=CV_Utkarsh%20Choudhary.pdf">Check out my Resumé!</a>
+          </p>
+          <p>
+            <a href="https://ipfs.io/ipfs/QmbwGMYrckUzTwcP8bTxRMrLqxqaUATPs7xUqsAWacFEUM?filename=CV_Utkarsh%20Choudhary.pdf"> Check out my Resumé!</a>
           </p>
         </div>
       </div>
