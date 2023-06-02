@@ -33,7 +33,24 @@
 }
 .hero .content h1{
     font-size: 4rem;
-    padding: 0.6rem, 0, 0.5rem;
+    padding: 0.6rem, 0, 0.7rem;
+}
+.btncont {
+    margin-top: 30px;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px; /* Adjust the values to increase or decrease the button size */
+    border-radius: 8px; /* Adjust the value to control the roundness of the button */
+    font-size: 16px; /* Adjust the value to control the button's font size */
+    text-decoration: none;
+    background-color: #007bff; /* Adjust the color as desired */
+    color: #fff; /* Adjust the color as desired */
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Adjust the color for the hover effect */
 }
 .hero .content p{
     font-size: 1.4rem;
@@ -46,6 +63,7 @@
 @media screen and (max-width: 640px) {
     .hero .content h1{
         font-size: 3rem;
+        margin-bottom: 1em;
     }
     .hero .content p{
         font-size: 1.4rem;

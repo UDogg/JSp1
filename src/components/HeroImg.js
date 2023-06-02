@@ -17,8 +17,9 @@ const HeroImg = () => {
                     </p>
                     <h1>
                         I am a Computer Science Student at Penn State.
+
                     </h1>
-                    <div>
+                    <div className="btncont">
                         <Link to ="/Projects" className="btn">Projects</Link>
                         <Link to ="/Contact" className="btn btn-light">Contact</Link>
                     </div>
